@@ -1,0 +1,32 @@
+@media screen and (max-width: 400px) {
+    .content-left h1 {
+        font-size: 30px;
+        line-height: 32px;
+    }
+
+    .content-left_second h3 {
+        margin-left: 2px;
+    }
+
+    .content_text_second {
+        margin-left: 2px;
+        font-size: 15px;
+        line-height: 30px;
+    }
+
+    .content-left_info h3, .content_text_info {
+        width: 350px;
+        font-size: 15px;
+        line-height: 30px;
+        margin-left: 2px;
+        margin-top: 50px;
+    }
+
+    .content_text_info {
+        margin-top: 5px;
+    }
+
+    .navbar-brand {
+        margin-left: 1px;
+    }
+}
